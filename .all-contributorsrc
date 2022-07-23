@@ -1371,6 +1371,33 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "wojexe",
+      "name": "wojexe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21208490?v=4",
+      "profile": "https://wojexe.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Tostapunk",
+      "name": "Mattia Schiavon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25140297?v=4",
+      "profile": "https://github.com/Tostapunk",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "PrettyWood",
+      "name": "Eric Jolibois",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18406791?v=4",
+      "profile": "http://toucantoco.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 8,
